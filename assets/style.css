@@ -132,13 +132,12 @@ nav {
     margin: 5px;
 }
 
-
-/*
 #portfolio {
     cursor: pointer;
     background-image: url("./pictures/portfolio.png");
+    background-position: right;
+    background-position-x: 80%;
 }
-*/
 
 
 /* footer / "contact" styling */
